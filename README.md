@@ -1,6 +1,6 @@
 Membuat StoryBoard ![Gambar WhatsApp 2025-11-08 pukul 01 19 35_35840d07](https://github.com/user-attachments/assets/1f5cc76b-26c0-42c2-9511-5211cd034191)
 
-Selanjutnya, Membuat Mockups <img width="1607" height="619" alt="image" src="https://github.com/user-attachments/assets/6e101849-fe0a-4a7e-9791-79e47dea4b36" />
+Membuat Mockups <img width="1607" height="619" alt="image" src="https://github.com/user-attachments/assets/6e101849-fe0a-4a7e-9791-79e47dea4b36" />
 
 Membuat UI Desain
 <img width="1389" height="692" alt="image" src="https://github.com/user-attachments/assets/3a7db03f-7a36-4e42-b5da-1c4198d52965" />
