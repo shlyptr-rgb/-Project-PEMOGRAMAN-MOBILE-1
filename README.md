@@ -2,7 +2,16 @@ Membuat StoryBoard ![Gambar WhatsApp 2025-11-08 pukul 01 19 35_35840d07](https:/
 
 Selanjutnya, Membuat Mockups <img width="1607" height="619" alt="image" src="https://github.com/user-attachments/assets/6e101849-fe0a-4a7e-9791-79e47dea4b36" />
 
-UI <img width="839" height="601" alt="image" src="https://github.com/user-attachments/assets/d78877e6-1e1f-40a8-915f-1a0e4eecdd2b" /> <img width="756" height="631" alt="image" src="https://github.com/user-attachments/assets/2957ad2f-09a4-4e5c-85b5-3376f7da7193" /><img width="1386" height="630" alt="image" src="https://github.com/user-attachments/assets/efa550ab-cc58-49ab-861f-e21db75be8b1" /><img width="1303" height="641" alt="image" src="https://github.com/user-attachments/assets/ca933fdc-f479-475f-9bdc-b0faf891b5c6" <img width="1156" height="599" alt="image" src="https://github.com/user-attachments/assets/e4097495-ea58-4d8c-a357-02c6fb165c67" />
+Membuat UI Desain
+<img width="1389" height="692" alt="image" src="https://github.com/user-attachments/assets/3a7db03f-7a36-4e42-b5da-1c4198d52965" />
+<img width="1385" height="693" alt="image" src="https://github.com/user-attachments/assets/debee1d4-124f-4f66-8d04-eb12e339e415" />
+<img width="1384" height="689" alt="image" src="https://github.com/user-attachments/assets/80155769-0d26-4ffa-87dd-44d97f2d73dc" />
+<img width="1388" height="686" alt="image" src="https://github.com/user-attachments/assets/904d51b3-1504-41bf-974d-ab44aca9e3dc" />
+<img width="1383" height="690" alt="image" src="https://github.com/user-attachments/assets/6fcd74a8-c8fc-4ed8-9451-5d67034c41b2" />
+
+
+
+
 
 
 
